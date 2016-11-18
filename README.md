@@ -1,4 +1,4 @@
-# PROG 02: Represent!
+# Discord Calendar Bot
 
 This is a discord bot that is meant to help coordinate events with large groups of people.  It can help create and manage events based on discord role types. 
 
